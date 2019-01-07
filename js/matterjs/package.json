@@ -23,7 +23,7 @@
     "browserify": "^14.0.0",
     "cheerio": "^0.22.0",
     "connect-livereload": "^0.6.0",
-    "event-stream": "^3.3.2",
+    "event-stream": "3.3.4",
     "fast-json-patch": "^1.1.4",
     "gulp": "^3.9.0",
     "gulp-bump": "^2.6.1",
